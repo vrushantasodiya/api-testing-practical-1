@@ -180,7 +180,7 @@ function App() {
                   className="btn-edit"
                   onClick={() => editStudent(student)}
                 >
-                  Edit
+                  Update
                 </button>
                 <button
                   className="btn-delete"
